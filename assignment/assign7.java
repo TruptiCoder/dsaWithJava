@@ -1,5 +1,6 @@
 public class assign7 {
 
+    //Question no 1
     public static int times7(int num[][]){
         int count = 0;
         int n = num.length;
