@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 public class array {
 
@@ -15,7 +15,7 @@ public class array {
         //  int moreNumbers[] = {4, 5 , 6};
         //  String fruits[] = {"apple", "mango", "orange"};
 
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
 
         // int marks[] = new int[89];
         // System.out.println("length of array = " + marks.length);

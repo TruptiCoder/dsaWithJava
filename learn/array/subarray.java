@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 public class subarray{
 
@@ -11,7 +11,7 @@ public class subarray{
                     System.out.print(numbers[k] + " ");
                     // sum += numbers[k];
                 }
-                ts++;
+                ts = ts+1;
                 System.out.println();
             }
         }

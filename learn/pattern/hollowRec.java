@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class hollowRec{
     public static void main(String args[]){
         int row = 5 , col = 8;

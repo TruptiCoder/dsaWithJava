@@ -86,6 +86,7 @@ public class OOPs {
 
     //SUPER KEYWORD
     Lowers l = new Lowers();
+    System.out.println(l);
   }
 }
 
