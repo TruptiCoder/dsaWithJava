@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.LinkedList;
 
 public class QueueReversal {
     public static void reverse(Queue<Integer> q){

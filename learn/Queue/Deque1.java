@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.LinkedList;
 
 public class Deque1 {
     public static void main(String[] args) {
